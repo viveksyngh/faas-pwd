@@ -12,7 +12,7 @@ cd faas
 
 # Deploy the stack
 echo "Deploying the stack"
-./deploy.sh
+./deploy_stack.sh
 echo "Stack Deployed"
 
 
